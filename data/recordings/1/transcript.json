@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about AI to get started."
+  },
+  {
+    "role": "user",
+    "text": "the How you why you"
+  },
+  {
+    "role": "assistant",
+    "text": "No worries — I’m not quite sure what you mean by “the How you why you”. Do you mean something like “How are you?” or “Why do you like AI?” Let’s try it in a full sentence in English."
+  }
+]

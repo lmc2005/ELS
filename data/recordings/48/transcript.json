@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. Shall we start with small talk?"
+  },
+  {
+    "role": "user",
+    "text": "Hello, I like films and travel."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice to meet you. What do you enjoy talking about?"
+  }
+]

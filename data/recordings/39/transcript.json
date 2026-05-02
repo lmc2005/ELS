@@ -1,0 +1,58 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "user",
+    "text": "I am. Jeremy, what. Do you want to talk. What with me. With me."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice to meet you, Jeremy. What would you like to chat about?"
+  },
+  {
+    "role": "user",
+    "text": "So. It depends on. What do you want to. Cat with me."
+  },
+  {
+    "role": "assistant",
+    "text": "Did you mean **“chat”**?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, I mean. Cat. It depends on. What do you want to. It depends on. What do you want to. Chat with me."
+  },
+  {
+    "role": "assistant",
+    "text": "Got it — **chat** with me. You could say, “What do you want to chat about?” What interests you?"
+  },
+  {
+    "role": "user",
+    "text": "Edit. What do you want to. But."
+  },
+  {
+    "role": "assistant",
+    "text": "Do you mean, “What do you want to talk about?” What shall we chat. about?"
+  },
+  {
+    "role": "user",
+    "text": "I mean, what do. What do you want to chat. About."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice — “What do you want to chat about?” What would you like to. start with?"
+  },
+  {
+    "role": "user",
+    "text": "Give me our ID. Have any idea. Give me our ID."
+  },
+  {
+    "role": "assistant",
+    "text": "Do you mean, “Do you have any ideas?” What shall we chat about?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying Give me our ID Have any idea. Could you say a little more about that?"
+  }
+]

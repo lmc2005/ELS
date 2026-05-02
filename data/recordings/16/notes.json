@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "Have you read any good books recently?"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "Can you recommend a good book to me?"
+  }
+]

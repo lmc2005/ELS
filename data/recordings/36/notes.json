@@ -1,0 +1,47 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I was going to say..."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "What would you like to learn?"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "the best bit so far"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "No worries at all"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "We can keep it very simple"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I built an app to practise my English."
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "coder = someone who writes code"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I think..."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I feel..."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I went on a trip to..."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "a trip I’ve enjoyed recently"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I’m planning to travel there this month."
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "holiday"
+  },
+  {
+    "source": "ai",
+    "type": "idea",
+    "content": "Mention what you want to do there: food, scenery, or sightseeing."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "take a trip to"
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "holiday"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I’d like to travel there this month."
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "holiday = vacation"
+  }
+]

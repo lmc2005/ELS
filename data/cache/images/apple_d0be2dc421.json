@@ -1,0 +1,96 @@
+{
+  "word": "Apple",
+  "definition": "An apple is a round fruit that grows on a tree and is usually red, green, or yellow.",
+  "part_of_speech": "noun",
+  "usage_note": "Use it for the fruit; Apple with a capital A can also mean the technology company.",
+  "examples": [
+    {
+      "sentence": "She ate an apple for lunch.",
+      "note": "fruit"
+    },
+    {
+      "sentence": "I packed two apples in my bag.",
+      "note": "plural"
+    },
+    {
+      "sentence": "Apple released a new phone today.",
+      "note": "company"
+    }
+  ],
+  "results": [
+    {
+      "title": "Apple fruit in illorin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Apple_fruit_in_illorin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Apple_fruit_in_illorin.jpg/960px-Apple_fruit_in_illorin.jpg",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "description": "Apple fruit",
+      "relevance_score": 25
+    },
+    {
+      "title": "Apple Malus domestica Zoete Peppel. (actm).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Apple_Malus_domestica_Zoete_Peppel._%28actm%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Apple_Malus_domestica_Zoete_Peppel._%28actm%29.jpg/960px-Apple_Malus_domestica_Zoete_Peppel._%28actm%29.jpg",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "description": "Apple Malus domestica Zoete Peppel. Location, De Kruidhof Buitenpost.",
+      "relevance_score": 16
+    },
+    {
+      "title": "Apples in basket 2018 G2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Apples_in_basket_2018_G2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apples_in_basket_2018_G2.jpg/960px-Apples_in_basket_2018_G2.jpg",
+      "source": "Wikimedia Commons",
+      "license": "Public domain",
+      "description": "Apples 'Spartan' in a basket. Ukraine, Vinnytsia Oblast",
+      "relevance_score": 16
+    },
+    {
+      "title": "Golden Delicious apples.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Golden_Delicious_apples.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Delicious_apples.jpg/960px-Golden_Delicious_apples.jpg",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "description": "'Golden Delicious' apples",
+      "relevance_score": 16
+    },
+    {
+      "title": "PinkLadyApples.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/PinkLadyApples.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/PinkLadyApples.JPG/960px-PinkLadyApples.JPG",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "description": "Stacked pink lady apples.",
+      "relevance_score": 16
+    },
+    {
+      "title": "Tree with red apples in Barkedal 4.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tree_with_red_apples_in_Barkedal_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tree_with_red_apples_in_Barkedal_4.jpg/960px-Tree_with_red_apples_in_Barkedal_4.jpg",
+      "source": "Wikimedia Commons",
+      "license": "CC0",
+      "description": "Tree with red apples 'Särsö' in Barkedal, Lysekil Municipality, Sweden. The apples ripened early and were unusually red on the side facing south and the camera, caused by the uncharacteristically many hours of sunlight during the hot summer of 2018.",
+      "relevance_score": 16
+    },
+    {
+      "title": "Pink lady and cross section.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pink_lady_and_cross_section.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/960px-Pink_lady_and_cross_section.jpg",
+      "source": "Wikimedia Commons",
+      "license": "GFDL 1.2",
+      "description": "Pink Lady apple and its cross section isolated on a white background",
+      "relevance_score": 4
+    },
+    {
+      "title": "Red Apple.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/960px-Red_Apple.jpg",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "description": "Red Apple. Used white paper behind apple and above apple and bounced SB-600 at 1/4th power.",
+      "relevance_score": 4
+    }
+  ],
+  "cached_at": "2026-05-01T12:21:40.697387",
+  "cache_version": 4
+}

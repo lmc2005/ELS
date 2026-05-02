@@ -1,0 +1,70 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "user",
+    "text": "But."
+  },
+  {
+    "role": "assistant",
+    "text": "Ah, “but” on its own is a bit incomplete — what were you going to say?"
+  },
+  {
+    "role": "user",
+    "text": "What do you want to learn?"
+  },
+  {
+    "role": "assistant",
+    "text": "I’d love to learn about your day, if that’s alright — what’s been the best bit so far?"
+  },
+  {
+    "role": "user",
+    "text": "Sorry, I don't know."
+  },
+  {
+    "role": "assistant",
+    "text": "No worries at all — we can keep it very simple. What did you do today?"
+  },
+  {
+    "role": "user",
+    "text": "I just, ah, finish a project, ah, because I'm a coder. My major is computer science, so I developed a application for myself to practice my English."
+  },
+  {
+    "role": "assistant",
+    "text": "That’s brilliant — you finished a project and built an app to practise English! What kind of app is it?"
+  },
+  {
+    "role": "assistant",
+    "text": "No rush. Try one simple English sentence."
+  },
+  {
+    "role": "assistant",
+    "text": "You can start with: I think, I feel, or I remember."
+  },
+  {
+    "role": "assistant",
+    "text": "Take your time. What is the first idea in your mind?"
+  },
+  {
+    "role": "assistant",
+    "text": "Take your time. What is the first idea in your mind?"
+  },
+  {
+    "role": "assistant",
+    "text": "Take your time. What is the first idea in your mind?"
+  },
+  {
+    "role": "user",
+    "text": "The."
+  },
+  {
+    "role": "assistant",
+    "text": "Almost there — could you finish the sentence for me?"
+  },
+  {
+    "role": "assistant",
+    "text": "No rush. Try one simple English sentence."
+  }
+]

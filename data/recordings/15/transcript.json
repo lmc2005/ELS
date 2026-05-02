@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about book to get started."
+  },
+  {
+    "role": "user",
+    "text": "Hi, who are you?"
+  },
+  {
+    "role": "assistant",
+    "text": "Hi! I’m James, your British English tutor. Happy to chat with you about books or anything else in English. What kind of books do you like?"
+  }
+]

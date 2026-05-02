@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. Shall we start with trip?"
+  },
+  {
+    "role": "user",
+    "text": "The."
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "What do you mean?"
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "assistant",
+    "text": "No rush. Try one simple sentence about trip."
+  }
+]

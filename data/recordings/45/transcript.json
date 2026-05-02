@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, let's chat about weekend plans, something unexpected, and how it felt. What's your first thought?"
+  },
+  {
+    "role": "user",
+    "text": "What do you mean? I don't understand. Sorry."
+  },
+  {
+    "role": "assistant",
+    "text": "No worries — I mean, tell me about your weekend plans, or something surprising. that happened to you."
+  },
+  {
+    "role": "user",
+    "text": "Ah, for this weekend, I just prac, I just plan to, ah, develop a project for myself to improve ah my English, maybe speaking or listening. Yeah, just it."
+  },
+  {
+    "role": "assistant",
+    "text": "That’s a great plan — I plan to work on my English project this. weekend."
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying Ah for this weekend I just prac. Could you say a little more about that?"
+  }
+]

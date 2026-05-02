@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "assistant",
+    "text": "No rush. Try one simple English sentence."
+  },
+  {
+    "role": "user",
+    "text": "Do you have any idea?"
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "assistant",
+    "text": "No rush. Try one simple English sentence."
+  },
+  {
+    "role": "assistant",
+    "text": "You can start with: I think, I feel, or I remember."
+  }
+]

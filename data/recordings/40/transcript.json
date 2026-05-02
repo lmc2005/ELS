@@ -1,0 +1,62 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "user",
+    "text": "It depends on what do you want to talk with me."
+  },
+  {
+    "role": "assistant",
+    "text": "It depends on what you want to talk about. What do you fancy chatting about?"
+  },
+  {
+    "role": "user",
+    "text": "Sorry, what is fancy chatting?"
+  },
+  {
+    "role": "assistant",
+    "text": "It means “what would you like to chat about?” What do you fancy talking. about?"
+  },
+  {
+    "role": "user",
+    "text": "Okay, let me fancy talking about travel."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice try — you could say, “Let’s talk about travel.” What’s your favourite place. ?"
+  },
+  {
+    "role": "user",
+    "text": "Uh, my favorite place, of course, in China."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice! In British English, we’d usually say “favourite” instead of “favorite”. What do you. love about China?"
+  },
+  {
+    "role": "user",
+    "text": "I love about China very much."
+  },
+  {
+    "role": "assistant",
+    "text": "Nice, but you’d usually say, “I love China very much.” What do you love. most there?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying I love about China very much. Could you say a little more about that?"
+  },
+  {
+    "role": "assistant",
+    "text": "Stay with I love about China very much. What is one clear example from your life?"
+  },
+  {
+    "role": "assistant",
+    "text": "Let's keep going with I love about China very much. What happened next, or why does it matter to you?"
+  },
+  {
+    "role": "assistant",
+    "text": "Let's keep going with I love about China very much. What happened next, or why does it matter to you?"
+  }
+]

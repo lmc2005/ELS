@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "user",
+    "text": "What do you want?"
+  },
+  {
+    "role": "assistant",
+    "text": "I’m happy to chat about anything—films, food, travel. What are you into these days?"
+  },
+  {
+    "role": "user",
+    "text": "I'm great today, and you."
+  },
+  {
+    "role": "assistant",
+    "text": "I’m good too, thanks. Better: “And you?” What’s made your day great?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying I'm great today and you. Could you say a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, I'm great today, and I'm plan to develop a, English learning system in website, and then I just use AI agent to help me to develop it, and just use the project to improve my English speaking or listening. Do you think this is good idea?"
+  },
+  {
+    "role": "assistant",
+    "text": "That sounds like a brilliant idea. Better: “I’m planning to develop an English-learning system on a website.” What features would. you add first?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying Yeah I'm great today and I'm plan. Could you say a little more about that?"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about book to get started."
+  },
+  {
+    "role": "user",
+    "text": "The."
+  }
+]

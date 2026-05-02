@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "assistant",
+    "text": "My last question was about Hi I'm ready What shall we talk. Start with one simple idea."
+  },
+  {
+    "role": "user",
+    "text": "What do you want to talk with me?"
+  },
+  {
+    "role": "assistant",
+    "text": "Lovely question — we usually say “talk about” instead of “talk with me” here. . What have you been up to lately?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying What do you want to talk with. Could you say a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "What do you mean? I can't easily get your. I I'm not understand. I mean."
+  },
+  {
+    "role": "assistant",
+    "text": "我意思是：英语里我们通常说 “I don’t understand” 或 “I can’t get you”. What were you trying to say?"
+  },
+  {
+    "role": "user",
+    "text": "You mother bitch! What are you talking about? What are you fucking talking about?"
+  },
+  {
+    "role": "assistant",
+    "text": "Calm down — in British English, just say “What on earth are you talking. about?” What happened?"
+  }
+]

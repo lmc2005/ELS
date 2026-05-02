@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. Shall we start with trip?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, of course."
+  },
+  {
+    "role": "assistant",
+    "text": "Great! Have you been on any exciting trips recently?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, I've go to a province in China called Yangxi, and I go to the I went to the, uh, Shanqing Mountain. It is a beautiful mountain in China."
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "What do you want to learn? What do you want to know about this?"
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "I said, \"What do you want to learn about that?\""
+  },
+  {
+    "role": "assistant",
+    "text": "Got it, my bad! Let's start with how you got to Shanqing Mountain."
+  },
+  {
+    "role": "user",
+    "text": "."
+  },
+  {
+    "role": "assistant",
+    "text": "Could you tell me a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "The."
+  },
+  {
+    "role": "assistant",
+    "text": "It sounds like you were about to say something else. Did you visit any other places nearby?"
+  }
+]

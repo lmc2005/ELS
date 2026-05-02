@@ -1,0 +1,42 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about trip to get started."
+  },
+  {
+    "role": "user",
+    "text": "Yeah."
+  },
+  {
+    "role": "assistant",
+    "text": "Great — did you go on a trip recently, or are you planning one?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, I'm planning one because for this month there is a long holiday called May Day holiday."
+  },
+  {
+    "role": "assistant",
+    "text": "That sounds lovely — a long May Day holiday is a great chance for a trip. Where are you thinking of going?"
+  },
+  {
+    "role": "user",
+    "text": "Yeah, I'm planning to going to Jiangxi Nanchang, is a city in China."
+  },
+  {
+    "role": "assistant",
+    "text": "That sounds great — I’d say “I’m planning to go to Nanchang in Jiangxi, which is a city in China.” Where will you go first?"
+  },
+  {
+    "role": "user",
+    "text": "The first place I go to travel is, Ah, Sanqing Mountain. You know, Ah, Sanqing Mountain."
+  },
+  {
+    "role": "assistant",
+    "text": "Ah, Sanqing Mountain sounds brilliant — you could say, “The first place I’m going to visit is Sanqing Mountain.”"
+  },
+  {
+    "role": "user",
+    "text": "The."
+  }
+]

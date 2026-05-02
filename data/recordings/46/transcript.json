@@ -1,0 +1,38 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hi, I'm ready. What shall we talk about?"
+  },
+  {
+    "role": "user",
+    "text": "So, what do you want to talk about?"
+  },
+  {
+    "role": "assistant",
+    "text": "Anything you like — perhaps travel, food, or books? What have you been into lately?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying So what do you want to talk. Could you say a little more about that?"
+  },
+  {
+    "role": "user",
+    "text": "I say, \"What do you mean?\""
+  },
+  {
+    "role": "assistant",
+    "text": "What do you mean? That’s the natural way to say it. What did you. mean?"
+  },
+  {
+    "role": "user",
+    "text": "What did you mean? What did you mean?"
+  },
+  {
+    "role": "assistant",
+    "text": "I meant: “Could you say a little more about that?” What would you like. to chat about?"
+  },
+  {
+    "role": "assistant",
+    "text": "You were saying What did you mean What did you. Could you say a little more about that?"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "{'text': 'More natural: “What would you like to talk about?”', 'reason': 'Sounds more natural.'}"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "Use direct quotations naturally in conversation."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "If unsure, ask for clarification politely."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "Use one question unless repeating for emphasis."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "In conversation, one clear question is enough."
+  }
+]

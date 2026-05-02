@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about umbrella story to get started."
+  },
+  {
+    "role": "user",
+    "text": "Mina looked out the window and saw dark clouds. She put on her yellow shoes and took her red umbrella. On the way to the store, the rain began to fall. At the corner, she saw a little boy with no umbrella. He was wet and looked sad. Mina stopped and smiled. She held the umbrella over both of them. They walked together to the bus stop. The boy said, \"Thank you.\" Mina felt warm and happy, even in the cold rain. When the bus came, the boy waved goodbye. Mina went to the store with a big smile."
+  },
+  {
+    "role": "assistant",
+    "text": "That was a lovely retelling — very clear and easy to follow. I’d just make one small change: instead of “with no umbrella”, we’d usually say “without an umbrella”. What do you think Mina was feeling when she decided to share her umbrella?"
+  }
+]

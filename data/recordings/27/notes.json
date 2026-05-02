@@ -1,0 +1,47 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "go on a trip"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "plan a trip"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I’m planning a trip."
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "holiday / long weekend / break"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I’m planning to go to..."
+  },
+  {
+    "source": "ai",
+    "type": "grammar",
+    "content": "planning to + verb"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "I’m going to visit..."
+  },
+  {
+    "source": "ai",
+    "type": "vocabulary",
+    "content": "mountain"
+  },
+  {
+    "source": "ai",
+    "type": "idea",
+    "content": "Tell me what you want to do there."
+  }
+]

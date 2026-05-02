@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about book to get started."
+  },
+  {
+    "role": "user",
+    "text": "Yeah, of course. Did you read a good book? Nice book, and recommend to me."
+  },
+  {
+    "role": "assistant",
+    "text": "Yeah, I have read a few good ones recently. A more natural way to ask that is: \"Have you read any good books recently? Can you recommend one to me?\" One book I’d recommend is The Midnight Library by Matt Haig. It’s easy to read and quite thought-provoking. What kind of books do you usually enjoy?"
+  }
+]

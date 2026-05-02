@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "A more natural version: “What do you mean? I don’t understand, sorry.”"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "You can also ask for clarification: “Could you explain what you mean?”"
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "Use “I’m planning to” for future plans."
+  },
+  {
+    "source": "ai",
+    "type": "phrase",
+    "content": "“Just it” sounds unnatural; try “that’s all.”"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "word": "put off",
+  "definition": "Put off means to delay doing something until a later time.",
+  "part_of_speech": "phrasal verb",
+  "usage_note": "It is often used when someone postpones an action, task, or event, sometimes because they do not want to do it now.",
+  "examples": [
+    {
+      "sentence": "I keep putting off my homework until after dinner.",
+      "note": "delay a task"
+    },
+    {
+      "sentence": "They put off the meeting because the manager was sick.",
+      "note": "postpone an event"
+    },
+    {
+      "sentence": "Don't put off calling your grandma.",
+      "note": "wait too long"
+    }
+  ],
+  "results": [],
+  "cached_at": "2026-05-01T10:33:03.999982",
+  "cache_version": 4
+}

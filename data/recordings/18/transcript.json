@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about introductions to get started."
+  },
+  {
+    "role": "user",
+    "text": "Hello there. This is a direct W T T S test with a British English tutor voice."
+  },
+  {
+    "role": "assistant",
+    "text": "Hello there — got it, and I’ll keep it in a warm British English style. Nice to meet you; how would you like to introduce yourself in one or two sentences?"
+  }
+]

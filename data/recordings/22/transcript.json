@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "text": "Hello! I'm ready to chat. If you want, we can talk about food to get started."
+  },
+  {
+    "role": "user",
+    "text": "I like cooking because it helps me relax. What kind of food do you enjoy?"
+  },
+  {
+    "role": "assistant",
+    "text": "That’s lovely—I really enjoy spicy Indian food and a good Sunday roast; what do you like cooking most?"
+  }
+]
